@@ -1,0 +1,15 @@
+{
+  "name": "@yunser/hello-cli",
+  "version": "2.0.2",
+  "description": "Say hello",
+  "main": "index.js",
+  "author": "Yunser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yunser/hello-cli"
+  },
+  "bin": {
+    "hello": "./index.js"
+  }
+}
